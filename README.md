@@ -1,6 +1,6 @@
 # Dicas_de_APIs
  
-<h1>Algumas das APIs que testei, mais dicas.</h1>
+<h1>Dicas de APIs, Algumas das APIs que testei, mais dicas.</h1>
 
 <ul>
     <li>API_Bing_News</li>
