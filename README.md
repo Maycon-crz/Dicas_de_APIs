@@ -28,6 +28,8 @@
 <img src="img/Calota_Polar.PNG">
 <img src="img/oxido_nitroso.PNG">
 
+<h3>As APIs das imagens estão funcionando no meu site pessoal: <a href="https://www.recicladarte.com/">https://www.recicladarte.com/</a></h3>
+
 
 
 
