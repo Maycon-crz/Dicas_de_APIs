@@ -21,3 +21,15 @@
 </ul>
 
 <h2>OBS: Nas pastas tem um código básio para testalas, mas é nessessário acessar sua conta no <a href="https://rapidapi.com/hub">https://rapidapi.com/hub</a> Para poder pegar as chaves para funcionar o teste!</h2>
+<img src="img/API_Bibg_news.PNG">
+<img src="img/API_instagram.PNG">
+<img src="img/API_metano.PNG">
+<img src="img/API_tedk.PNG">
+<img src="img/Calota_Polar.PNG">
+<img src="img/oxido_nitroso.PNG">
+
+
+
+
+
+
