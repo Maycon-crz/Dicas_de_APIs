@@ -20,7 +20,7 @@
     <li>API_TRADUCAO</li>
 </ul>
 
-<h2>OBS: Nas pastas tem um código básio para testalas, mas é nessessário acessar sua conta no <a href="https://rapidapi.com/hub">https://rapidapi.com/hub</a> Para poder pegar as chaves para funcionar o teste!</h2>
+<h2>OBS: Nas pastas tem um código básio para testar, mas é nessessário acessar sua conta no <a href="https://rapidapi.com/hub">https://rapidapi.com/hub</a> Para poder pegar as chaves para funcionar o teste!</h2>
 <img src="img/API_Bibg_news.PNG">
 <img src="img/API_instagram.PNG">
 <img src="img/API_metano.PNG">
